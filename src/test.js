@@ -1,5 +1,9 @@
-var x;
-{ foo; x = 7; var y = 10; bar }
-function foo() {
-  var bar = 11;
+var marmota = new Marmota();
+{ manca(); var iarba_verde = 10; }
+var ciocolate = getCiocolate();
+function traba() {
+  for(var ciocolata in ciocolate) {
+    marmota.inveleste(ciocolata, "staniol")
+  }
+  fericita(marmota);
 }
