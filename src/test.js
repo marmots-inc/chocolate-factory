@@ -1,4 +1,4 @@
-var marmota = new Marmota();
+let marmota = new Marmota();
 { manca(); var iarba_verde = 10; }
 var ciocolate = getCiocolate();
 function traba() {
