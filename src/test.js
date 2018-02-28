@@ -7,3 +7,7 @@ function traba() {
   }
   fericita(marmota);
 }
+
+if (2 == 3) {
+  console.log('hello'); 
+}
